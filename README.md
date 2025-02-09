@@ -1,9 +1,9 @@
 # VulneraScan - Advanced Detection of Open-Source Code Vulnerabilities
 
 ## Description
-**VulneraScan** is an advanced tool designed to detect vulnerabilities in open-source code repositories. By leveraging state-of-the-art AI techniques and deep learning models, VulneraScan provides an efficient and automated solution for identifying security risks within open-source software. The system uses a combination of static code analysis and deep learning-based vulnerability detection to ensure that potential threats are recognized early in the software development process.
+**VulneraScan**  is an advanced tool designed to detect vulnerabilities in open-source code repositories. By leveraging cutting-edge Large Language Models (LLMs) enhanced with Reinforcement Learning through Generative Robust Policy Optimization (GRPO), VulneraScan offers an efficient and automated solution for identifying security risks within open-source software. This system combines dynamic code analysis with reinforcement learning-based vulnerability detection, ensuring that potential threats are identified and mitigated early in the software development lifecycle.
 
-This project focuses on improving the security of open-source codebases by identifying vulnerabilities that could be exploited in cyberattacks. Whether you're a developer, a security researcher, or an organization relying on open-source software, VulneraScan helps you protect your code and avoid potential security breaches.
+This project aims to enhance the security of open-source codebases by pinpointing vulnerabilities that could be exploited in cyberattacks. Whether you're a developer, security researcher, or an organization utilizing open-source software, VulneraScan empowers you to safeguard your code and proactively avoid potential security breaches.
 
 ## Table of Contents
 - [Installation](#installation)
