@@ -26,7 +26,7 @@ To set up the environment, clone the repository and install the required Python 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/VulneraScan.git
+git clone https://github.com/ilyasdahaoui/VulneraScan.git
 cd VulneraScan
 
 # Install the required dependencies
